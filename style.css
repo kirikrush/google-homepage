@@ -1,0 +1,44 @@
+
+.panel {
+	z-index: 1;
+	width:100%;
+	height:100px;
+	position:fixed;
+	display:block;
+}
+
+ul {
+	margin-right:20px;
+}
+
+ul li {
+
+	display:inline;
+	font-size:14px;
+	float:right;
+	top:5px;
+	padding:3px;
+}
+.mid{
+	padding-top:200px;
+	position:relative;
+	top:100px;
+	height:500px;
+	width:1212px;
+}
+
+.mid img{
+	padding-left:486px;
+}
+
+.mid input{
+	text-align:left;
+	margin-left:500px;
+	padding-right: 50px	
+}
+
+.submit input {
+	margin-top:10px;
+	margin-left:580px;
+	padding-right:0;
+}
